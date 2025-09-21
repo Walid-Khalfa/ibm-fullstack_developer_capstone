@@ -1,9 +1,5 @@
 # xrwvm-fullstack_developer_capstone
 
-Fork of IBM Full Stack Developer Capstone Project - Car Dealership Application
-
-**Original repository**: https://github.com/nelsonmsk/ibm-fullstack_developer_capstone
-
 ## Car Dealership Application
 
 This is an IBM full stack software developer capstone project. This is a website of a fake national car dealership that allows new and existing customers to look up different branches by state and look at customer reviews of the various branches. Customers should be able to create an account and add their review for any of the branches.
